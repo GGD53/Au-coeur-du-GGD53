@@ -1,0 +1,251 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2CF26378_0476_625E_4172_C69CB55FEF56.source = https://Eikonis.com
+LinkBehaviour_520DC16C_0C78_CCA0_4194_D50DC7AAF310.source = https://apps.apple.com/fr/app/ma-sécurité/id1606413246
+LinkBehaviour_CE12DCD6_DF79_93BB_41DC_6D38D2A026C1.source = https://drive.google.com/file/d/1TeKdGytfLnofidHesLM72Jcij_DYg3hR/view?usp=sharing
+LinkBehaviour_EEE32A70_FDFB_8042_41E8_56D1CED4A126.source = https://drive.google.com/file/d/1dXzfwsTaA8l5R2q1GH_UofKIbUv6dXQB/view?usp=sharing
+LinkBehaviour_C66A01ED_E794_2258_41EC_CF20B4234F94.source = https://drive.google.com/file/d/1jYRKnzg9qdc0-Yahgjh31D33VBWhR2rb/view?usp=sharing
+LinkBehaviour_CF8887E7_DF7F_9D98_41E9_357130071CD3.source = https://drive.google.com/file/d/1uoiQKSdtEiz34CXjm2cvSwetSxUVYvE9/view?usp=sharing
+LinkBehaviour_2225B48F_044A_66B2_418D_1F3D8B0C712F.source = https://eikonis.com
+LinkBehaviour_527B468D_0C78_5460_4156_901E7B47325C.source = https://play.google.com/store/apps/details?id=com.masecuriteapp&hl=fr&pli=1
+LinkBehaviour_DE6A05BB_FE66_80C6_41E1_5E1124193A8E.source = https://www.canva.com/design/DAF9Upyp6cA/GLmx7HrVqYajk-NqOlZYtQ/view
+LinkBehaviour_DE9C4524_FE5A_81C2_41EA_CA7A7D5B6E26.source = https://www.canva.com/design/DAGJtYZ4yNs/IiONKoSRba4_IwOJ2St6cQ/view
+LinkBehaviour_E1C18BD9_FE65_8042_41DF_48947FE37AEF.source = https://www.canva.com/design/DAGMT-iOaqA/cCVKsbKSEakz_PNae6o9MQ/view
+LinkBehaviour_ECB7A0B2_FD74_3084_41E1_6F4115A7ED71.source = https://www.canva.com/design/DAGMT4MjtPg/Jed65A_8Udf9OnYE0JIuVQ/view
+LinkBehaviour_E18609B5_FE67_80C3_41E4_1AC9F337AE6E.source = https://www.canva.com/design/DAGMTioyFj4/J1x0o-2nZOCPnRSClxa5MA/view
+LinkBehaviour_ECC7808F_FEC1_603B_41E6_1C69AB0FC074.source = https://www.canva.com/design/DAGMTllNZL4/toDHonM2AGHRTqTCnYMvXQ/view
+LinkBehaviour_0C8FCED4_03C8_599E_4186_884804C409EC.source = https://www.canva.com/design/DAGMVRbqDXg/trxn82fzyt-pRCNu9Sf7eg/view
+LinkBehaviour_EEDB2CED_FEC1_61FF_41D1_8FB929FFDAB8.source = https://www.canva.com/design/DAGMVW4IWIQ/mq2Vlg0AvMX7tedFKBF-Sg/view
+LinkBehaviour_EEED2360_FEC1_60E5_41E8_466252B584DE.source = https://www.canva.com/design/DAGMVZ0Eonk/lOLscLixjMQwbXDxvwYGqQ/view
+LinkBehaviour_ECC5F70C_FD74_119C_41E2_7A367C573C02.source = https://www.canva.com/design/DAGMVcq07Mg/wRzze_KXevkjepgtp70K2g/view
+LinkBehaviour_0CA0BCCD_03C8_798E_418D_86C5A5C54EE9.source = https://www.gers.gouv.fr/Actions-de-l-Etat/Securite-et-Protection-de-la-Population2/Securite-interieure/Dispositif-de-participation-citoyenne
+LinkBehaviour_EE844AFD_FEC1_61DF_41EB_74C170E9A7AA.source = https://www.service-public.fr/particuliers/vosdroits/R43241
+LinkBehaviour_52B69C39_4024_B784_41BD_74770A97F285.source = //www.youtube.com/embed/V41AWqbvhhg
+
+## Habillage
+
+### Image
+Image_05150659_2444_804B_4190_AB5109892AA8.url = skin/Image_05150659_2444_804B_4190_AB5109892AA8_fr.png
+Image_06542479_2444_804B_41B0_7146A2928E09.url = skin/Image_06542479_2444_804B_41B0_7146A2928E09_fr.png
+Image_234F76D2_0456_2252_4177_84454E168DF9.url = skin/Image_234F76D2_0456_2252_4177_84454E168DF9_fr.png
+Image_2CE0BC44_0476_25B6_418E_D1486C7C7252.url = skin/Image_2CE0BC44_0476_25B6_418E_D1486C7C7252_fr.png
+Image_5EA306FF_470D_DDD0_41AF_C8DE0C65090D.url = skin/Image_5EA306FF_470D_DDD0_41AF_C8DE0C65090D_fr.png
+Image_5ECB8250_470D_B4D0_41CB_5E6509EF3A06.url = skin/Image_5ECB8250_470D_B4D0_41CB_5E6509EF3A06_fr.png
+Image_64D1D4DD_471D_BDD0_419E_AFD11F122FDD.url = skin/Image_64D1D4DD_471D_BDD0_419E_AFD11F122FDD_fr.png
+Image_6F1E4DC2_4712_4C30_41C8_A0E625394632.url = skin/Image_6F1E4DC2_4712_4C30_41C8_A0E625394632_fr.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_fr.png
+Image_B1DBF2C0_BF8A_CEB0_41C3_86D2198EEE58.url = skin/Image_B1DBF2C0_BF8A_CEB0_41C3_86D2198EEE58_fr.png
+Image_F41F7496_E79C_22CA_41E4_58DB98B258F0.url = skin/Image_F41F7496_E79C_22CA_41E4_58DB98B258F0_fr.png
+Image_FBF58542_E794_224B_41DA_B3EBAA0DE8D3.url = skin/Image_FBF58542_E794_224B_41DA_B3EBAA0DE8D3_fr.png
+
+### Menu déroulant
+DropDown_F261818B_E7BC_62DA_41D5_411F527C416D.prompt = Rooms
+DropDown_FD5C7DB3_E794_E2C9_41D4_74AF394D4C63.prompt = Rooms
+
+### Texte multiligne
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Arial Black', Gadget, sans-serif;"><I>Gendarmerie Group Of Mayenne</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Arial Black', Gadget, sans-serif;"><I>61 allée des Français Libres</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Arial Black', Gadget, sans-serif;"><I>53000, Laval</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Arial Black', Gadget, sans-serif;"><I>02.43.59.57.10</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>Gendarmerie Group Of Mayenne</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>61 allée des Français Libres</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>53000, Laval</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Arial Black', Gadget, sans-serif;"><I>02.43.59.57.10</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Hotspot
+
+### Info-bulle
+HotspotPanoramaOverlayArea_F9108F6D_E7B5_DE5E_41DD_53B730BB182E.toolTip =  RDC
+HotspotPanoramaOverlayArea_2763F3D3_35B5_C066_41C7_BE0733541D61.toolTip = +1
+HotspotPanoramaOverlayArea_6CF749BD_47F6_5450_4199_C355C887B5C9.toolTip = -1
+HotspotPanoramaOverlayArea_6DF8DA87_47F5_B430_41D1_ABF70CB4041E.toolTip = -1
+HotspotPanoramaOverlayArea_E6968FAD_FDAA_80C3_41EC_51D7D86DBFB9.toolTip = -1
+HotspotPanoramaOverlayArea_FB584272_E9D4_4F7B_41E8_92CDEEE630A8.toolTip = Hub BTA
+HotspotPanoramaOverlayArea_EA3EFB5D_FDA7_8043_41D6_EF01200B0C2D.toolTip = Hub C.I.C
+HotspotPanoramaOverlayArea_C6A6AC1A_E78C_61FA_41AB_E71630C3B2F5.toolTip = BTA
+HotspotPanoramaOverlayArea_C9296795_E88C_6EC8_41B8_905CF0950B59.toolTip = BTA
+HotspotPanoramaOverlayArea_C92377CB_E88C_2E59_41EB_29185C6A4CB1.toolTip = BTA
+HotspotPanoramaOverlayArea_75B2019E_6E3D_1DCE_41C9_05E8D6E1600E.toolTip = C.I.C
+HotspotPanoramaOverlayArea_7AFD8E08_6E3D_06B2_4196_6E262FB23861.toolTip = C.I.C
+HotspotPanoramaOverlayArea_E497FA50_FDAA_8042_41E2_4BC66A1AD44E.toolTip = C.I.C
+HotspotPanoramaOverlayArea_ECBD8968_FDFF_8041_41D4_A483C3892DDF.toolTip = Kennel
+HotspotPanoramaOverlayArea_27C72D27_35B5_C02E_41C2_150AEDAD02D1.toolTip = Corridor +1
+HotspotPanoramaOverlayArea_E4EEC674_FDAA_8041_41E0_675D51018FAC.toolTip = Corridor +1
+HotspotPanoramaOverlayArea_27C2BD0B_35B4_C1E5_41C2_3257C67975E3.toolTip = Outdoor
+HotspotPanoramaOverlayArea_E6C03899_FDAF_80C3_41D3_23A1C6EB6C03.toolTip = Outdoor
+HotspotPanoramaOverlayArea_CFE915DE_DF76_9DAB_41C6_EFC01A844C30.toolTip = Indoor
+HotspotPanoramaOverlayArea_7B6D7516_6E3E_FADE_418B_C12F02C8CF52.toolTip = MPF
+HotspotPanoramaOverlayArea_75467DAA_6E3D_05F6_419D_A8D25C246C69.toolTip = MPF
+HotspotPanoramaOverlayArea_EA1E8D15_FDAA_81C3_41D6_630609654711.toolTip = MPF
+HotspotPanoramaOverlayArea_7BF63275_6E0B_31E9_41D6_CA33138A7FCE.toolTip = PSIG
+HotspotPanoramaOverlayArea_72FA9C39_6E3F_0AD5_41A8_E061545E6A34.toolTip = PSIG
+HotspotPanoramaOverlayArea_E551411E_FDAB_81FE_41CD_5ADBE603AEE5.toolTip = SIPG
+HotspotPanoramaOverlayArea_EC5815E1_FDFF_8042_41C7_AECAA3F26B65.toolTip = SIPG
+HotspotPanoramaOverlayArea_EF55527B_FDFE_8046_41E2_8748F6BF8A93.toolTip = PSIG
+HotspotPanoramaOverlayArea_E5E663AB_FDAB_80C6_41CE_D24BFCBBDE90.toolTip = SIPG
+HotspotPanoramaOverlayArea_FA6F6379_E9D4_4D69_41C1_5880E669D322.toolTip = Signs
+HotspotPanoramaOverlayArea_EA97470E_FDDB_81C1_41E2_7727DACC62D6.toolTip = RDC
+HotspotPanoramaOverlayArea_ED78D525_FDFA_81C3_41E4_6DBC31EA97D8.toolTip = RDC
+HotspotPanoramaOverlayArea_C9E6A63E_E88C_6E3A_41C6_E078A484DCD6.toolTip = RDC
+HotspotPanoramaOverlayArea_FB40CF95_E9D4_B5B8_41E2_9090DD2D3998.toolTip = RDC
+HotspotPanoramaOverlayArea_1411E1BE_0622_7357_4179_ABC774EACC72.toolTip = RDC
+HotspotPanoramaOverlayArea_C9FC82B5_E894_26C9_41C6_1E7B41926A7F.toolTip = RDC
+HotspotPanoramaOverlayArea_EA81CB6C_FDA5_8041_41E3_C114FE909F61.toolTip = RDC
+HotspotPanoramaOverlayArea_F8978AA1_E78C_26C6_41C7_FEB88DA43B4E.toolTip = RDC
+HotspotPanoramaOverlayArea_7E7335EA_4712_5FF0_41C8_C9EFB6078F39.toolTip = SOLC
+HotspotPanoramaOverlayArea_714A7D6F_4712_4CF0_41AC_FE7D9EA23E91.toolTip = SOLC
+HotspotPanoramaOverlayArea_721E9F72_4712_4CD0_419D_BBB626826054.toolTip = SOLC
+HotspotPanoramaOverlayArea_D0F5E03B_CB0E_1AB3_41CD_5CD877F0596C.toolTip = SOLC Workshop
+HotspotPanoramaOverlayArea_D72F7EFC_CB0A_07B5_41E2_7CE005A678AE.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_DFB62FFE_FEAD_8041_41E6_16A9F4C1DEE0.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E4A24054_FDBE_8042_41E6_78230D806EBE.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E7AA88C7_FDA6_804E_41DA_377F51FFFF45.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E441F6BB_FDBA_80C6_41D4_02BFD5B321D0.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E7DDD588_FDBA_80C1_41E1_BF8921454E56.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E41BE369_FDA7_8043_41EC_475BCC42E8C5.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E7C57340_FDA5_8041_41AE_239E0B74E0DD.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E6EF1AD6_FDAB_8041_41B3_E96BF5B013A3.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_E79E2FEC_FDAA_8041_41E0_02736C06779F.toolTip = SOLC Offices
+HotspotPanoramaOverlayArea_ECC273E2_FDFA_8041_41ED_D285853346AD.toolTip = Lockers room
+HotspotPanoramaOverlayArea_F818DF3B_E795_DE3A_41D4_C82D0FE54C42.toolTip = Lockers room
+
+## Média
+
+### Audio
+audiores_16C9AEDF_03D3_129C_4180_28B4D8576619.mp3Url = media/audio_16BCF527_03D1_17AC_4155_8007F6415D80_fr.mp3
+audiores_6AF78F5C_72D7_458C_41D4_FBA9FB1B7AE0.mp3Url = media/audio_64C2CBA7_72DB_CCBC_41D8_EAE2D76FF84A_fr.mp3
+audiores_6A76B9CC_72D6_CC8C_41CF_F1DBCC0C98B9.mp3Url = media/audio_64C87DA7_72DB_C4BC_4188_90DC553F5FCF_fr.mp3
+audiores_6A0FF4D7_72D7_449D_4183_9518A91246C1.mp3Url = media/audio_64CA7C90_72DB_C494_41D2_5516E25B8917_fr.mp3
+audiores_6A5AFE95_72D7_449C_41D4_116747D9EEAB.mp3Url = media/audio_64CB7D1D_72DB_C58C_41C3_5B16450B754A_fr.mp3
+audiores_D1AEDEA2_CB06_0652_41DB_62D9C58657F7.mp3Url = media/audio_D2A462D9_CB06_7FFF_41CC_7CA51488103B_fr.mp3
+audiores_C7573FFF_E9DC_B569_41E7_E9E53A98094A.mp3Url = media/audio_D978B19B_E9D4_CDA8_41E0_19897A2CE7FA_fr.mp3
+audiores_E9A7BD31_FD74_1184_41EE_F1991EF37C81.mp3Url = media/audio_EEA28147_FD74_118C_41E0_0096258E9D33_fr.mp3
+audiores_E9B4B536_FD75_F18C_41EB_09EBD480CDF7.mp3Url = media/audio_EEB0159E_FD74_10BC_41EA_A44050E4E4FA_fr.mp3
+audiores_E9B585CD_FD75_F09C_41E5_7FF190FA08CD.mp3Url = media/audio_EEB13621_FD74_1387_4130_FAB8D87727A6_fr.mp3
+audiores_E9B646B6_FD75_F08C_41E0_AA9C0BC35FAC.mp3Url = media/audio_EEB2D69A_FD74_1084_41D1_60508A679DAE_fr.mp3
+audiores_E9B1A853_FD75_FF84_41CF_34487D1E085B.mp3Url = media/audio_EEB35796_FD74_108D_41A5_C62E74DD5BA9_fr.mp3
+audiores_E9B0C7C1_FD75_F084_41D9_603DD111C053.mp3Url = media/audio_EEB3E71B_FD74_1184_41E1_861C676725A0_fr.mp3
+audiores_E9BD8126_FD75_F18D_41EE_307D35563673.mp3Url = media/audio_EEB47329_FD74_1184_41ED_0F99B7A41A19_fr.mp3
+audiores_E9BE3206_FD75_F38C_41D6_99DFF9762293.mp3Url = media/audio_EEB503A6_FD74_108D_41E1_9A319342AEDC_fr.mp3
+audiores_E9BF129A_FD75_F084_41E3_BA56F5A4575F.mp3Url = media/audio_EEB6241E_FD74_17BC_41ED_6479F34F123A_fr.mp3
+audiores_E9BA445E_FD75_F7BC_41ED_B422A9034E21.mp3Url = media/audio_EEB7451F_FD74_11BC_41ED_310AB7AFD63E_fr.mp3
+audiores_E9B9E375_FD75_F18C_41ED_C2728CC0D592.mp3Url = media/audio_EEB7B4A1_FD74_1084_41D5_10DDA17955C0_fr.mp3
+audiores_E9A39F84_FD74_108C_41A3_3736376EA55F.mp3Url = media/audio_EEBA4218_FD74_1384_41ED_0D5DD6B29A47_fr.mp3
+audiores_E9BC905F_FD74_0FBC_41D5_E5661C643CE7.mp3Url = media/audio_EEBB42AD_FD74_109C_41EA_88C9BA412DB7_fr.mp3
+audiores_FF71E7B9_E9D4_55E9_41EB_E5F34A6DA917.mp3Url = media/audio_FE0385DE_E9D4_B5AB_41CA_A7273DD60BC8_fr.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_53AB771A_4024_7184_41A3_9417F82B109A.url = media/popup_10DDE798_047B_D796_4181_BFB7FE9CBBDA_fr_0_0.jpg
+imlevel_53BB2CAF_4024_709C_41A3_272715E07798.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_0.jpg
+imlevel_53BB0CAF_4024_709C_41CB_A4FFCEA01C3D.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_1.jpg
+imlevel_53BB1CAF_4024_709C_41B5_7BA85543982B.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_2.jpg
+imlevel_53BBECAF_4024_709C_41B5_F3DE3C123FDB.url = media/popup_174349B3_070C_7E5C_4162_906F3283B4B8_fr_0_3.jpg
+imlevel_53ADB6EA_4024_7084_41C1_78AD4C409181.url = media/popup_1F0FC9A5_0478_7BBE_4180_FD5CADFAFA32_fr_0_0.png
+imlevel_53AA66EA_4024_7084_41C3_304FDDD86569.url = media/popup_1F0FC9A5_0478_7BBE_4180_FD5CADFAFA32_fr_0_1.png
+imlevel_53AA76EA_4024_7084_41CD_694D63FB1F68.url = media/popup_1F0FC9A5_0478_7BBE_4180_FD5CADFAFA32_fr_0_2.png
+imlevel_53AB16FB_4024_7084_41C3_7EA21A3D56AB.url = media/popup_1F2757ED_0479_D78E_419A_BDE73564B73E_fr_0_0.jpg
+imlevel_53AD06FB_4024_7084_41CC_2F4F5B44D8CE.url = media/popup_1F2757ED_0479_D78E_419A_BDE73564B73E_fr_0_1.jpg
+imlevel_53ADE6FB_4024_7084_41A4_C5E502DE70A7.url = media/popup_1F2757ED_0479_D78E_419A_BDE73564B73E_fr_0_2.jpg
+imlevel_53AAB707_4024_718C_41C6_DE1AC7802E5D.url = media/popup_1F57C800_0478_D876_4196_3ABEEA658FC0_fr_0_0.png
+imlevel_53AA8707_4024_718C_41B4_DE47AD215F9B.url = media/popup_1F57C800_0478_D876_4196_3ABEEA658FC0_fr_0_1.png
+imlevel_53ADC6D9_4024_7085_41CE_FA6DB80B450C.url = media/popup_1F7277A8_0478_B7B6_4191_C4CD17732137_fr_0_0.jpg
+imlevel_53A8072E_4024_719C_418B_A22E75E9FE70.url = media/popup_1F898AF3_0479_D99A_419A_45DE42548DC1_fr_0_0.jpg
+imlevel_53AC56C0_4024_7083_41CB_3F382A67A5C5.url = media/popup_E4DD2C80_FDEA_80C2_41AD_461815A61932_fr_0_0.png
+imlevel_53AC26C0_4024_7083_41CA_CD55C64B20E4.url = media/popup_E4DD2C80_FDEA_80C2_41AD_461815A61932_fr_0_1.png
+imlevel_53AC06C0_4024_7083_41BA_CFED6A167290.url = media/popup_E4DD2C80_FDEA_80C2_41AD_461815A61932_fr_0_2.png
+imlevel_53AC16C0_4024_7083_41B2_6A01774B984F.url = media/popup_E4DD2C80_FDEA_80C2_41AD_461815A61932_fr_0_3.png
+imlevel_53ACF6C1_4024_7085_41BB_C5494357560B.url = media/popup_E4DD2C80_FDEA_80C2_41AD_461815A61932_fr_0_4.png
+imlevel_53BBAC9E_4024_70BC_41B6_3DCC54958208.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_0.jpg
+imlevel_53BB9C9E_4024_70BC_41B2_751D6C21A877.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_1.jpg
+imlevel_53B86C9E_4024_70BC_419F_4C05559129F0.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_2.jpg
+imlevel_53B84C9F_4024_70BC_41C7_05AEADBC1456.url = media/popup_F8BCF1E1_E78C_E246_41EA_44A89D98DEA7_fr_0_3.jpg
+
+### Popup Image
+
+### Titre
+panorama_FE4EF05F_E9FF_CAA9_41DF_96627C42D67C.label = +1
+panorama_E82CC765_E78C_6E4E_41DF_5E4A1AC8C4EE.label = +2
+panorama_FC8499B6_E9FF_DDFB_41E9_83ED1714D257.label = -1
+panorama_6E63BABA_47F2_7450_41C0_89874B078C8F.label = -1 bis
+album_69DEEC19_0C48_B460_4180_4AF55815324D_0.label = 2016MINT0717_104_PLR9265
+album_69DEEC19_0C48_B460_4180_4AF55815324D_1.label = 2018MINT0894_017
+album_69DEEC19_0C48_B460_4180_4AF55815324D_2.label = 2018MINT0894_023
+album_6C11781D_0C4F_DC63_418E_33247806146E_0.label = 2021MINT0078_031_GRC6790
+album_6C11781D_0C4F_DC63_418E_33247806146E_1.label = 2021MINT0078_032_GRC6798
+album_6C11781D_0C4F_DC63_418E_33247806146E_2.label = 2021MINT0078_045_GRC6875
+album_69DEEC19_0C48_B460_4180_4AF55815324D_3.label = 2021MINT0228-012- MAS3485
+album_6C11781D_0C4F_DC63_418E_33247806146E_3.label = 2023MINT0802-013_LPT7195
+album_69DEEC19_0C48_B460_4180_4AF55815324D_4.label = 2024MINT0210-025LPT03351
+album_69DEEC19_0C48_B460_4180_4AF55815324D.label = Album Photo 2016MINT0717_104_PLR9265
+album_6C11781D_0C4F_DC63_418E_33247806146E.label = Album Photo 2021MINT0078_031_GRC6790
+album_DDC5A283_FDB4_3084_41E5_760F781D1048.label = Album Photo IMG_0006
+album_16AB1B09_0667_5B41_4166_57A8506CDACD.label = Album Photo IMG_2098
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F.label = Album Photo Ordi gestio. caméra
+album_F5AF6449_E3A6_BA5C_41CE_FA9A9EE20471.label = Album Photo _1020803
+album_AB475009_BF6A_D35E_41DF_C0626CEDC7AC.label = Album Photo unnamed-2
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF.label = Album Photo unnamed-3
+panorama_C4FAC958_CB0A_0AFE_41E0_301832C9AE5F.label = Workshop SOLC
+panorama_C58240C5_CB0A_1BD6_4171_E11248D97E96.label = Front Mayenne Company
+panorama_0DDCF191_03C8_4B96_418B_62D645D10522.label = Territorial Brigade Laval
+panorama_C583A540_CB0A_7ACE_41D1_4AF80903D2E4.label = COB Craon
+model_A8998301_EAB3_CE99_41E0_C71E29EF95CB.label = Helmet 3D
+panorama_B4924F3C_BF76_6DB7_41E7_3073C2DB3EDA.label = Criminal Identification Unit (CIU)
+panorama_3A0FB41B_35AC_47E5_41C0_DF0C2242C25B.label = Automotive Support Center of Laval
+panorama_F19A3579_FDE7_8043_41E2_AA44259D9B98.label = Kennel
+album_F5AF6449_E3A6_BA5C_41CE_FA9A9EE20471_1.label = DJI_0277
+album_F5AF6449_E3A6_BA5C_41CE_FA9A9EE20471_2.label = DJI_0289
+model_A88DE419_EAB3_CAA9_41E0_2E095DA9DDB7.label = Famas 3D
+model_A88B7500_EAB3_CA97_41E1_533A1C889A96.label = GPB 3D
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_0.label = IMG_0006
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_1.label = IMG_0009
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_2.label = IMG_0012
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_3.label = IMG_0019
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_4.label = IMG_0021
+album_DDC5A283_FDB4_3084_41E5_760F781D1048_5.label = IMG_0023
+album_16AB1B09_0667_5B41_4166_57A8506CDACD_1.label = IMG_2097
+album_16AB1B09_0667_5B41_4166_57A8506CDACD_0.label = IMG_2098
+panorama_CD5AEA5C_DF76_96A8_41D1_BA4764F1CCDF.label = Inter COB Craon
+panorama_D019D4DC_DF79_B3AF_41CE_4D9A5347AC3E.label = CIU Laboratory
+panorama_B495B972_BF76_35B3_41DC_637C4977BE89.label = Family Protection House
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F_0.label = Ordi gestio. caméra
+panorama_0DD66F8C_03C8_D78E_4164_35EA98FD9539.label = BTA Sign
+panorama_1CB990A0_0439_FEEE_418B_15131E61F844.label = Surveillance and Intervention Platoon of Laval (SIPG)
+panorama_28C6E739_3A22_41F7_4192_3C0454C4C1E2.label = Gate
+panorama_E91FAF67_E78C_3E4A_41CC_11010F6CEA49.label = RDC
+panorama_C5838C16_CB0A_0A72_41DD_4F4126944444.label = SOLC Hub
+panorama_C583DA36_CB0A_0EB5_41A4_934F3E426A2D.label = SOLC Office
+panorama_178AF9C6_0622_1337_40FF_E38BF16CB800.label = SIPG Locker room
+album_AB96891B_BF5A_5571_41DE_6D5FBE47C73F_1.label = Visu salle derrière miroir sans tain
+album_F5AF6449_E3A6_BA5C_41CE_FA9A9EE20471_0.label = _1020803
+album_AB475009_BF6A_D35E_41DF_C0626CEDC7AC_0.label = unnamed-2
+album_69DEEC19_0C48_B460_4180_4AF55815324D_5.label = unnamed-3
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF_0.label = unnamed-3
+album_AB04D5CA_BF56_7CD3_41D8_D899B74816DF_1.label = unnamed-4
+album_69DEEC19_0C48_B460_4180_4AF55815324D_6.label = unnamed-4
+photo_FFCF9839_E78C_61C6_41E2_AAF059DD91AD.label = unnamed-4
+
+## Popup
+
+### Corps
+htmlText_ADC9F651_BF8A_5650_41E4_4190A5C26F43.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Thanks to this tool, victims do not have to repeat their testimonies multiple times, which helps prevent further trauma.</SPAN></SPAN></DIV></div>
+htmlText_161C048A_0661_4D40_4185_B6C337A43BC0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">The insignia of the Peloton de Surveillance et d’Intervention de la Gendarmerie (PSIG) in Laval features an eagle symbolizing vigilance and protection over the Mayenne region. The blue and black background represents the PSIG, while the eagle’s talons encircle the group, illustrating its care and guardianship over the territory.</SPAN></SPAN></DIV></div>
+htmlText_AE6BF81A_BF96_39D0_41BB_BDC1979085A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">The one-way mirror at the Maison de Protection des Familles (MPF) allows gendarmes to discreetly observe interviews, ensuring the privacy and safety of the individuals being questioned. The computer system records both audio and video footage, making it easier for the gendarmes to manually transcribe the interviews later. Before starting discussions with the investigator, individuals welcomed at the MPF for an interview are given a tour of the facility to familiarize themselves with the environment.</SPAN></SPAN></DIV></div>
+htmlText_ACA8CEDB_BF8A_5657_41E5_8EF12E2DEAB8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">A board designed for children allows the youngest visitors to express themselves through drawing. Recalling traumatic events or emotions through drawing is often easier for children welcomed at the Maison de Protection des Familles (MPF). This tool helps them communicate their feelings in a non-verbal way, making it a valuable resource for both the children and the professionals assisting them.</SPAN></SPAN></DIV></div>
+htmlText_61284884_7249_4B7C_41B0_25585A1E85EE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">[ATTENTION] Vous entrez dans la visite virtuelle du groupement de gendarmerie de la Mayenne. Par soucis de sécurité, les pièces visitées lors de la navigation ne correspondent pas à la réalité des lieux.</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Bonne visite !</SPAN></DIV></div>
+htmlText_23E6B2B9_35B4_4022_41B1_038D711E3CCB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">[REMINDER] You are entering the virtual tour of the Mayenne Gendarmerie Group. For security reasons, the rooms you navigate through during the tour do not correspond to the actual layout of the premises.</SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Enjoy your visit!</SPAN></DIV></div>
+
+### Titre
+window_23E6C2B9_35B4_4022_41B2_BD44DF3E1891.title = WARNING
+window_ADC92651_BF8A_5650_41C7_1B384110C6AB.title = Caméra
+window_D36C2645_EABC_D698_41E7_8158B95C9AB5.title = Heavy Healmet PSIG
+window_161C448A_0661_4D40_416A_6BFFC409C572.title = Logo
+window_D003148D_EABC_4BA9_41EC_45EAC1B113A8.title = Famas
+window_D71427A3_EABF_D598_41C8_291627C3A904.title = Anti-bullets jacket
+window_AE69D81A_BF96_39D0_41E0_07FFBF6B6644.title = One-way mirror
+window_ACAACEDB_BF8A_5657_41D3_062663F6312B.title = White Board
+
+## Visite
+
+### Description
+
+### Titre
+tour.name = Au coeur du GGD53
